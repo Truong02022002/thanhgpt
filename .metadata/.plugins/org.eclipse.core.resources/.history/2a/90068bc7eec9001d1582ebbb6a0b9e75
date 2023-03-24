@@ -1,0 +1,14 @@
+package Servlet;
+
+public class nhanVien {
+	private int Id_nhanvien;
+	private String Name;
+	private String Phone;
+	private String Role;
+	private String Shift;
+	
+	public nhanVien() {
+		super();
+	}
+
+}
